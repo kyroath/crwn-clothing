@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab8979f98b650054aee2ec3f9e6cb429",
+    "revision": "3f1587529ee6e1f3eab379f27ef330e0",
     "url": "/crwn-clothing/index.html"
   },
   {
-    "revision": "b88ae226c7a0bc395b8d",
-    "url": "/crwn-clothing/static/css/main.c98d22d1.chunk.css"
+    "revision": "905d381647be8123f5cd",
+    "url": "/crwn-clothing/static/css/main.a32b3c54.chunk.css"
   },
   {
-    "revision": "a0860d91246e50125777",
-    "url": "/crwn-clothing/static/js/2.a5d5ff04.chunk.js"
+    "revision": "55fc3c0616cf0edcec46",
+    "url": "/crwn-clothing/static/js/2.185b1e1b.chunk.js"
   },
   {
     "revision": "d0b13a04dd0dc4c851ad16fad1cc6f51",
-    "url": "/crwn-clothing/static/js/2.a5d5ff04.chunk.js.LICENSE.txt"
+    "url": "/crwn-clothing/static/js/2.185b1e1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b88ae226c7a0bc395b8d",
-    "url": "/crwn-clothing/static/js/main.5f85517e.chunk.js"
+    "revision": "905d381647be8123f5cd",
+    "url": "/crwn-clothing/static/js/main.40988129.chunk.js"
   },
   {
     "revision": "0c0bf0a54c9e5596672f",
